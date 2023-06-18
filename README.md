@@ -1,5 +1,5 @@
 # BloggerV2
-#### Version 2 of the blogging application Blogger made as MAD 1 Project
+#### Version 2 of the blogging application Blogger
 
 BloggerV2 is a multi-user application for you can upload and engage with blogs. The application allows one to create blogs, follow/unfollow other users, like or comment on blogs or archive their own blogs.
 
