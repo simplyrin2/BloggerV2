@@ -4,11 +4,13 @@
 BloggerV2 is a multi-user application for you can upload and engage with blogs. The application allows one to create blogs, follow/unfollow other users, like or comment on blogs or archive their own blogs.
 
 ## Working Application Snapshots
-![Pic1](https://github.com/user-attachments/assets/a42288fa-3a04-44e0-b503-2acda6708e08)
-![Pic2](https://github.com/user-attachments/assets/b3dd96a2-930c-4c27-8112-f0a72d8f568a)
-![Pic3](https://github.com/user-attachments/assets/8ba16c16-dfa6-453d-aa47-cc95e0acb7d8)
-![Pic4](https://github.com/user-attachments/assets/ad5e18fc-8e71-4431-a641-1b0cadade3c0)
-![Pic5](https://github.com/user-attachments/assets/49561378-e2cf-4981-9748-89108cf1856f)
+![Pic1](https://github.com/user-attachments/assets/24f734a2-12ba-4a3b-a52d-15e9c63915cc)
+![Pic2](https://github.com/user-attachments/assets/97c1a792-c41f-42f9-874b-129f51f98ba0)
+![Pic3](https://github.com/user-attachments/assets/d18e5995-1c88-479c-9359-b230896eac95)
+![Pic4](https://github.com/user-attachments/assets/e620cd57-b913-4f47-8797-442c946e6d21)
+![Pic5](https://github.com/user-attachments/assets/9ae23e1f-f7fd-4096-911e-10929b2d3537)
+![Pic6](https://github.com/user-attachments/assets/10e9347c-a58a-4def-8688-a5c9f86b9d69)
+![Pic7](https://github.com/user-attachments/assets/370af614-27b1-42c0-ab7e-d3daf6588c68)
 
 
 ## Installation
